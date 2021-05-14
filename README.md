@@ -5,3 +5,5 @@
 * if 반복문 ~ : if... : (콜론 빼먹지 말기) + elif와 else
 * for문 -> range()
 * while문
+
+# 민규야 안녕
